@@ -1,4 +1,4 @@
-# PWTI
+# demo-jquery
  Tugas PWTI Teori
  Anggota Kelompok:
  1. Faishal Fariz Hidayatullah (215150607111014)
